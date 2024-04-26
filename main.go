@@ -5,7 +5,8 @@ import (
 )
 
 func main()  {
-	fmt.Println("New word")	
+	fmt.Println("dssa")
+	fmt.Println("Uzgartirdim")
 
 }
 
